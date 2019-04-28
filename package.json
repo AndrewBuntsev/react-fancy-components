@@ -1,8 +1,8 @@
 {
   "name": "react-fancy-components",
-  "version": "0.1.0",
-  "description": "React Fancy Components!!",
-  "main": "src/components/Tooltip.js",
+  "version": "0.1.2",
+  "description": "React Fancy Components - details coming soon",
+  "main": "lib/Tooltip.js",
   "dependencies": {
     "babel": "^6.23.0",
     "react": "^16.8.6",
