@@ -4,7 +4,9 @@ React-Fancy-Components is a React Components library.
 
 ## Demo
 
-![](images/demo.png "Optional title")
+![](images/demo.png)
+
+Live demo https://andrewbuntsev.github.io/react-fancy-components
 
 ## Installation
 
